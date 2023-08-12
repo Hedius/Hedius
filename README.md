@@ -1,6 +1,11 @@
 ### Hi there 👋
+![Metrics](github-metrics.svg)
+
+---
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/308658692000186368)](https://discord.com/users/308658692000186368)
+
 
 <!--
 **Hedius/Hedius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
