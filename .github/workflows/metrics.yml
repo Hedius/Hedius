@@ -28,6 +28,8 @@ jobs:
           user: Hedius
           template: classic
           base: header, activity, community, repositories, metadata
+          repositories_forks: true
+          base_indepth: true
           config_timezone: Europe/Vienna
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
